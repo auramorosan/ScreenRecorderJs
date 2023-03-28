@@ -1,6 +1,6 @@
 # ScreenRecorderJs
 
-### [Demo](https://msfpt.github.io/ScreenRecorderJs/)
+### [Demo](https://0x6d7366.github.io/ScreenRecorderJs/)
 
 ScreenRecorder with JavaScript
 
